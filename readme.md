@@ -1,0 +1,1 @@
+Hi, this project tries to mimic a To Do List using local storage.
